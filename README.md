@@ -4,7 +4,7 @@ Everyone has a dream vacation in their bucketlist.  We're here to bring those dr
 ## Deployed Site
 https://dreamplanner-dl.netlify.app/
 
-
+[Client Repo](https://github.com/devin-lynch/dreamplanner-client)
 
 ## Team Members
 - VSPD - Valerie, Sean, Prija, Devin
